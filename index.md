@@ -1,5 +1,7 @@
 whatever you like
 
+There are **soooo** *many* ways to write in markdown!!
+
 *Italic*
 **Bold**
 # Heading 1
