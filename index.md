@@ -10,7 +10,7 @@ whatever you like
 
 - *List*
 - **List**
-- List
+- *List*
 
 1. One
 2. Two
