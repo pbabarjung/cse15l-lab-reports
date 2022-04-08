@@ -8,8 +8,8 @@ whatever you like
 ![image](https://user-images.githubusercontent.com/103269873/162477422-9d15234c-f1ff-4760-abe3-49c788da61f2.png)
 > Blockquote
 
-- List
-- List
+- *List*
+- **List**
 - List
 
 1. One
